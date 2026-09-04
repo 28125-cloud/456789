@@ -1,0 +1,6 @@
+{
+  "name": "Meat Shop POS",
+  "description": "ระบบจัดการร้านขายเนื้อสัตว์ครบวงจร - ระบบขายหน้าร้าน สต็อกเนื้อสัตว์ ลูกค้า พนักงาน รายรับ กำไร และรายงานครบวงจร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
